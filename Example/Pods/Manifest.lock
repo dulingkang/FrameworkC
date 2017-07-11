@@ -1,0 +1,16 @@
+PODS:
+  - FrameworkC (0.1.0)
+
+DEPENDENCIES:
+  - FrameworkC (from `../`)
+
+EXTERNAL SOURCES:
+  FrameworkC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FrameworkC: 42e085242fd6122f365d95fbadfaa7e7be8ee1f6
+
+PODFILE CHECKSUM: c5327f203c38146ed9e58265d72eae40758e7639
+
+COCOAPODS: 1.2.1

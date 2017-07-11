@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FrameworkC_Example' do
+  pod 'FrameworkC', :path => '../'
+
+  target 'FrameworkC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
